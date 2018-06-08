@@ -1,12 +1,10 @@
 <?php
 /*
 Plugin Name: Loco Translate
-Plugin URI: https://wordpress.org/plugins/loco-translate/
 Description: Translate themes and plugins directly in WordPress
-Author: Tim Whitlock
+Author: wp-iran
 Version: 2.1.3
-Author URI: https://localise.biz/wordpress/plugin
-Text Domain: loco-translate
+
 Domain Path: /languages/
 */
 
